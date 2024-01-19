@@ -1,4 +1,4 @@
-# Project Name: My-First-Data-Analytics-Repo
+# Project Name: Ogediniru-Uzoma-Baby-Step-in-Data-Analytics
 
 ....
 # Project Objective: Problem Statement
