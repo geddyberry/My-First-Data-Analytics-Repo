@@ -1,4 +1,4 @@
-# Project Name: Ogediniru-Uzoma-Baby-Step-in-Data-Analytics
+# Project Name: Ogediniru-Uzoma-Data-Analytics
 
 ....
 # Project Objective: Problem Statement
